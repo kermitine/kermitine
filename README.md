@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kermitine.
-- Canadian
+- Canadian/Persian
 - new to programming (python)
+
