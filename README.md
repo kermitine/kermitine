@@ -1,3 +1,3 @@
-- new to programming (python)
+i <3 python
 
 
