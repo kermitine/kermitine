@@ -5,4 +5,4 @@ Hey! I'm Kermitine, a full-time college student studying engineering who primari
 
 I started coding during Junior year of High school. I started off with simpler, more gimmicky software [(like a Pig-latin translator)](https://github.com/kermitine/Glick), but eventually I moved on to more useful software, like my Enigma-like [Clipper Encryption Suite](https://github.com/kermitine/Clipper) and even [light-curve analysis for Exoplanet detection.](https://github.com/kermitine/ExoPy)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kermitine?cardType=level-alternate&theme=dark&preferLogin=true&Text=13DD0A&Ring=DD2727)](https://git.io/awesome-stats-card)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kermitine&include_all_commits=true&include_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
